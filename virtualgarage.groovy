@@ -208,6 +208,10 @@ def virtualgdstate = virtualgd.currentContact
 
 
 
+
+
+
+
 def checkIfActuallyOpened()
 {
 def realgdstate = sensor.currentContact
